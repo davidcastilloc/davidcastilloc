@@ -5,9 +5,8 @@ Software developer!
 -------------------
 
 *   🌍  I'm based in Venezuela
-*   ✉️  You can contact me at [vikrzdavid@gmail.com](mailto:vikrzdavid@gmail.com)
-*   🚀  I'm currently working on [Startully](http://www.startully.com)
-*   🧠  I'm learning Rust, React Native.
+*   ✉️  You can contact me at [vikrzdavid@gmail.com](mailto:vikruzdavid@gmail.com)
+*   🧠  I'm learning Rust, React Native, flutter.
 
 ### Skills
 <p align="left">
