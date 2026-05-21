@@ -29,15 +29,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/davidcastilloc">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidcastilloc&show_icons=true&theme=tokyonight&hide_border=true" alt="David's GitHub stats" />
-  </a>
-  <a href="https://github.com/davidcastilloc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcastilloc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+
 
 ---
 <div align="center">
